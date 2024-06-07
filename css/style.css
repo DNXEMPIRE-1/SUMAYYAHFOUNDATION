@@ -527,18 +527,19 @@ a:focus {
 .page-header {
     position: relative;
     margin-bottom: 45px;
-    height: 34vh;
+    height: 60vh;
     padding: 0 1.5rem;
-    justify-content: center; /* Centers items horizontally */
+    display: flex; /* Add this */
+    flex-direction: column; /* Add this */
+    justify-content: center; 
     text-align: center;
-    align-items:flex-end;  /* Aligns items at the bottom */
-    background: linear-gradient(rgba(0, 0, 0, .5), rgba(0, 0, 0, .5)), url(../img/page-header.jpg);
+    align-items: flex-end;  
+    background: linear-gradient(rgba(0, 0, 0,.5), rgba(0, 0, 0,.5)), url(../img/page-header.png);
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size:contain;
 }
-
 .page-header h2 {
     position: relative;
     color: #FDBE33;
