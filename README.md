@@ -27,10 +27,8 @@ The Sumayyah Foundation is dedicated to improving lives through various charitab
 
 - **Frontend:**
   - HTML, CSS, JavaScript
-  - [Specify any frontend framework or library used, e.g., React, Vue, Angular]
 
 - **Backend:**
-  - [Specify backend technologies if applicable]
 
 - **Hosting:**
   - Vercel
@@ -45,8 +43,6 @@ The Sumayyah Foundation is dedicated to improving lives through various charitab
 
 ## 📸 Screenshots
 
-![Screenshot 1](path/to/screenshot1.png)
-![Screenshot 2](path/to/screenshot2.png)
 
 ## 🤝 Contribution
 
@@ -54,7 +50,6 @@ We welcome contributions to help improve our website and extend our reach. If yo
 
 ## 📜 License
 
-This project is licensed under [Specify the license if applicable].
 
 ---
 
