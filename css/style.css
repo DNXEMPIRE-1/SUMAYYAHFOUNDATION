@@ -526,8 +526,8 @@ a:focus {
 /*******************************/
 .page-header {
     position: relative;
-    margin-bottom: 45px;
-    height: 60vh;
+    margin-bottom: 95px;
+    height: 90vh;
     padding: 0 1.5rem;
     display: flex; /* Add this */
     flex-direction: column; /* Add this */
